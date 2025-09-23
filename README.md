@@ -20,7 +20,7 @@ The project uses the Brain Tumor Classification MRI dataset containing:
 
 
 ## TO_DO
-- Fix glimora class unbalances
+- Fix glimora class recall /f1
 ## TO_experiment
 
 - [ ] Implement focal loss for better imbalance handling
